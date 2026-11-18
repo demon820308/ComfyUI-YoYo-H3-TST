@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-yoyo-h3-tst"
+description = "Training-free Temporal State Transport (TST) temporal attention correction for MiniMax H3 video generation in ComfyUI."
+version = "1.0.0"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = ["Operating System :: OS Independent"]
+
+[project.urls]
+Repository = "https://github.com/demon820308/ComfyUI-YoYo-H3-TST"
+Issues = "https://github.com/demon820308/ComfyUI-YoYo-H3-TST/issues"
+
+[tool.comfy]
+PublisherId = "demon820308"
+DisplayName = "ComfyUI YoYo H3 TST"
+Icon = ""
